@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "oppgave_2_s.auto.manifest"

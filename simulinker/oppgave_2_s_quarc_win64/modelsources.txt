@@ -1,0 +1,1 @@
+   oppgave_2_s.c 
